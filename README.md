@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="./assets/Pixel-Art-Room.gif" alt="banner">
-<div align="center">
 
 # 💫 About Me:
 
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
         <p>Welcome to my Github, I'm Sean!<br>A dev with a Bachelor's in Computer Science and a passion for tinkering!</p>
     </div>
     <img src="./assets/Pixel-Art-Window.gif" width="180px" height="180px" style="margin-left: 20px;" />
-</div>
+</div
 
 # 💻 Tech Stack:
 
