@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 
 
+![Pixel Art Wallpaper](https://github.com/user-attachments/assets/52a348fa-f306-4ac6-a7bd-b914bb774c96)
 
 
 # 💫 About Me:
