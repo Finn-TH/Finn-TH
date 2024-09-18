@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 <img src="./assets/Pixel-Art-Room.gif" alt="banner">
 <div align="center">
 
-<h1 align="left">☕️ Sean</h1>
-    <img align="right" width="180px" height="180px" src="./assets/Pixel-Art-Window.gif" loop="infinite"/>
-</div>
-
 # 💫 About Me:
 
-Welcome to my Github, I'm Sean!<br>A dev with a Bachelor's in Computer Science and a passion for tinkering!
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        <h1>☕️ Sean</h1>
+        <p>Welcome to my Github, I'm Sean!<br>A dev with a Bachelor's in Computer Science and a passion for tinkering!</p>
+    </div>
+    <img src="./assets/Pixel-Art-Window.gif" width="180px" height="180px" style="margin-left: 20px;" />
+</div>
 
 # 💻 Tech Stack:
 
