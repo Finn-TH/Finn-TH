@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="flex: 1;">
-        <h1>☕️ Sean</h1>
-        <p>Welcome to my Github, I'm Sean!<br>A dev with a Bachelor's in Computer Science and a passion for tinkering!</p>
-    </div>
-    <img src="./assets/Pixel-Art-Window.gif" width="180px" height="180px" style="margin-left: 20px; margin-top: 10px;" />
+<div align="center">
+    <h1 align="left">☕️ Sean</h1>
+    <img align="right" width="180px" height="180px" src="./assets/Pixel-Art-Window.gif" style="margin-left: 20px;" />
 </div>
+
+**`Full Stack Developer | Enthusiastic Tinkerer | Computer Science Graduate`**
+
+<p style="text-align: justify;">
+Welcome to my GitHub, I'm Sean! A developer with a Bachelor's in Computer Science and a passion for tinkering! I am constantly exploring new technologies and working on innovative projects.
+</p>
 
 # 💻 Tech Stack:
 
