@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h1 align="left">☕️ Sean</h1>
-    <img align="right" width="180px" height="180px" src="./assets/Pixel-Art-Window.gif" style="margin-left: 20px;" />
+    <img align="right" width="180px" height="180px" src="./assets/Pixel-Art-Window.gif" style="margin-left: 20px; margin-bottom: 20px;" />
 </div>
 
 **`Full Stack Developer | Enthusiastic Tinkerer | Computer Science Graduate`**
