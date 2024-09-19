@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub, I'm Sean! A developer with a Bachelor's in Computer Science and a passion for tinkering! I am constantly exploring new technologies and working on innovative projects.
 </p>
 
-</div style="padding-top: 50px;">
+</div style="padding-top: 1000px;">
 
 # 💻 Tech Stack:
 
